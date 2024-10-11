@@ -34,7 +34,12 @@ Clone o repositório ou baixe o projeto, execute a classe `Iphone` que contém o
 ## Licença
 Esse projeto está licenciado sob a **Licença MIT**
 
+## Disclaimer
+
+Este projeto não é afiliado, endossado ou de qualquer forma associado à Apple Inc. O nome "iPhone" e todos os direitos relacionados são marcas registradas da Apple Inc. Este projeto é uma representação acadêmica e não deve ser utilizado para fins comerciais.
+
+
 ## Contato
 Para dúvidas ou sugestões, sinta-se a vontade para entrar em contato:
-- Thiago Piassi
+- Thiago Piassi - thi_piassi@hotmail.com
 - <a href="http://linkedin.com/in/thiagopiassi/"> Linkedin</a>
